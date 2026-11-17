@@ -1,0 +1,11 @@
+﻿review_id,review_text,encoded_sentiment,encoded_need,evidence_is_substring
+R0001,连接很快，切换设备方便，低频表现突出,positive,连接稳定,True
+R0002,低音太重，人声不够自然，低频表现突出,negative,音质,True
+R0003,续航很稳，一周充一次就够了,neutral,续航,True
+R0004,整体还行，功能比较齐全,neutral,unknown,True
+R0005,音质很好但价格确实贵，适合预算充足的人,mixed,价格,True
+R0006,降噪不错，但是续航和预期有差距，低频表现突出,mixed,降噪,True
+R0007,耳机有点重，运动时容易掉,negative,佩戴舒适,True
+R0008,续航没有宣传的那么久，需要频繁充电，低频表现突出,negative,续航,True
+R0009,通话时对方听不清，麦克风表现一般,negative,通话,True
+R0010,外观简洁，做工有质感,neutral,外观,True

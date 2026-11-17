@@ -1,0 +1,37 @@
+﻿brand,topic,negative_count,sample_size,rate_pct
+Apple AirPods,价格,14,399,3.5
+Apple AirPods,佩戴舒适,21,399,5.3
+Apple AirPods,包装,12,399,3.0
+Apple AirPods,续航,8,399,2.0
+Apple AirPods,连接稳定,4,399,1.0
+Apple AirPods,通话,9,399,2.3
+Apple AirPods,配送,7,399,1.8
+Apple AirPods,降噪,3,399,0.8
+Apple AirPods,音质,10,399,2.5
+Bose,价格,14,399,3.5
+Bose,佩戴舒适,22,399,5.5
+Bose,包装,5,399,1.3
+Bose,续航,3,399,0.8
+Bose,连接稳定,2,399,0.5
+Bose,通话,4,399,1.0
+Bose,配送,4,399,1.0
+Bose,降噪,3,399,0.8
+Bose,音质,10,399,2.5
+华为 FreeBuds,价格,8,399,2.0
+华为 FreeBuds,佩戴舒适,22,399,5.5
+华为 FreeBuds,包装,11,399,2.8
+华为 FreeBuds,续航,4,399,1.0
+华为 FreeBuds,连接稳定,20,399,5.0
+华为 FreeBuds,通话,8,399,2.0
+华为 FreeBuds,配送,9,399,2.3
+华为 FreeBuds,降噪,3,399,0.8
+华为 FreeBuds,音质,14,399,3.5
+索尼,价格,9,399,2.3
+索尼,佩戴舒适,28,399,7.0
+索尼,包装,9,399,2.3
+索尼,续航,5,399,1.3
+索尼,连接稳定,6,399,1.5
+索尼,通话,8,399,2.0
+索尼,配送,9,399,2.3
+索尼,降噪,2,399,0.5
+索尼,音质,11,399,2.8
